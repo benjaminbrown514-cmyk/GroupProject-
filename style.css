@@ -1,0 +1,30 @@
+h1 {
+    color: white;
+    background-color: blue; 
+    text-align: center;
+    border: 1px solid blue
+    
+}   
+
+ul {
+    display: flex;
+    align-items: stretch;
+    list-style-type:none;
+    background: silver;
+    height: 90px;
+}
+
+li {
+    background: #999;
+    width: 125px;
+    margin: 0 15px 0 0;
+    padding: 5px;
+    text-align: center; }
+a {
+    text-decoration: none;
+    color: #000
+
+}
+
+#home {align-self: flex-start;}
+
