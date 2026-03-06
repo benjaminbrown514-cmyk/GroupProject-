@@ -54,6 +54,15 @@ function showResults(event){
     
 }
 
+async function getWeather(cityName,key){
+    var url = 'api.openweathermap.org/data/2.5/weather?q={' + cityName + '}&appid={' + key + '}'
+ 
+    const response = await fetch(url)
+    if (!response.ok)
+}
+
+
+
 
 init()
 
@@ -61,6 +70,6 @@ showResults1()
 
 
 
-//var APIKey = 
+var APIKey = '8ea4031b309d23bcde8d56cade6b514b';
 
 //var APIKey1 = 
