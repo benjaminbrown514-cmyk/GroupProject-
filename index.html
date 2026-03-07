@@ -1,22 +1,31 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="style.css" /> 
-  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="wrapper">
+    <header>Weather Dashboard</header>
+    <div class="container">
+        <div class="left">
+            <div id="search-form">
+                <label for="city-input">Search for a city:</label>
+                <input type="text" id="city-input" placeholder="Dallas">
+                <button id="search-btn">Search</button>
+            </div>
+            <ul id="history-list"></ul>
+        </div>
+        <div class="right">
+            <div id="current-weather"></div>
+        </div>
+    </div>
+    <div id="forecast">
+        <h2>5-Day Forecast:</h2>
+        <div id="forecast-cards"></div>
+    </div>
 
-    
-<h1>weather dashboard</h1>
-<div class ="search input">
-    <p id="init"></p>
-    <p id = "day"></p>
-</div>
-
-</div>
+    <script src="script.js"></script>
 </body>
-
-<script src="./script.js"></script>
-
 </html>
