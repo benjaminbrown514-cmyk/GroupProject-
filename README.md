@@ -1,5 +1,4 @@
 # GroupProject-
-# [Insert Your Unique Project Name Here]
 ## Description
 [Insert your elevator pitch here]. This Interactive Front-End Application is a comprehensive weather dashboard designed to provide users with real-time weather data and a 5-day forecast for cities worldwide. Built collaboratively, this project solves the real-world problem of travel planning and daily preparation by integrating live data from server-side APIs.
 
