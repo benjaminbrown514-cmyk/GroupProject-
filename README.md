@@ -5,7 +5,7 @@
 Our team utilized Agile methodologies, managing tasks via a Kanban board and maintaining a clean codebase through a strict Git branch workflow and peer-reviewed pull requests.
 
 ## Deployment
-Live Application: 
+Live Application:(https://benjaminbrown514-cmyk.github.io/GroupProject-/)
 
 GitHub Repository: 
 
