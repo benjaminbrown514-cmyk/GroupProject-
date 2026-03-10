@@ -5,9 +5,9 @@
 Our team utilized Agile methodologies, managing tasks via a Kanban board and maintaining a clean codebase through a strict Git branch workflow and peer-reviewed pull requests.
 
 ## Deployment
-Live Application: [Link to GitHub Pages]
+Live Application: 
 
-GitHub Repository: [Link to Repository]
+GitHub Repository: 
 
 ## Features
 Interactive Search: Users can search for any city to retrieve current weather conditions.
