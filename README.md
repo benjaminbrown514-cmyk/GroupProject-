@@ -7,7 +7,7 @@ Our team utilized Agile methodologies, managing tasks via a Kanban board and mai
 ## Deployment
 Live Application:(https://benjaminbrown514-cmyk.github.io/GroupProject-/)
 
-GitHub Repository: 
+GitHub Repository:(https://github.com/benjaminbrown514-cmyk/GroupProject-) 
 
 ## Features
 Interactive Search: Users can search for any city to retrieve current weather conditions.
