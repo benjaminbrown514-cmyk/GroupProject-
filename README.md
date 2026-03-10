@@ -74,7 +74,8 @@ Managing merge conflicts during high-volume Git pushes.
 Integration of a Map API to show weather patterns visually.
 
 
-#Mockup 
-Push notifications for severe weather alerts in the saved "Home" city.
+#Mockup ![IMG_0068](https://github.com/user-attachments/assets/82baaed4-bd81-42b6-a4b8-8ff93a24b00e)
+
+
 
 Air Quality Index (AQI) data integration.
